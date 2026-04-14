@@ -1,0 +1,15 @@
+title: My DevOps Blog
+description: DevOps / Kubernetes / AWS Notes
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+
+# 기본 설정
+minimal_mistakes_skin: "default"   # dark, air, contrast 등 가능
+
+# URL
+url: "https://jhpark-kr.github.io"
